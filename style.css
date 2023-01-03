@@ -1,0 +1,16 @@
+
+#logo, #slogan, h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    text-shadow:
+    -3px -3px 0 #000,  
+     3px -3px 0 #000,
+     -3px 3px 0 #000,
+      3px 3px 0 #000;
+}
+
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("https://m.media-amazon.com/images/I/615qjuOFV2L._SL500_.jpg");
+    background-color: transparent;
+   }
